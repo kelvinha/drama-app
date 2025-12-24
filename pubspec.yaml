@@ -35,6 +35,18 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
 
+  # State Management
+  flutter_bloc: ^9.0.0
+  bloc: ^9.0.0
+  equatable: ^2.0.7
+
+  # Network
+  dio: ^5.7.0
+  chucker_flutter: ^1.7.1
+
+  # Local Storage
+  localstorage: ^6.0.0
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
